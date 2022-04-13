@@ -1,7 +1,8 @@
 # Arabic_VSD
-training data : 
-  -the related prepositions for each verb. 
+# Training data : 
+  - the related prepositions for each verb. 
   - arabic corpus texts. 
-testing data: 
+  
+# Testing data: 
   - annotated sentences ( annotate each verb in each sentence) 
-  - 
+   
